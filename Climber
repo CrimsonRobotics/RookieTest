@@ -1,0 +1,5 @@
+package frc.robot
+public class robot extends TimedRobot{
+    public static OI m_oi;
+
+}

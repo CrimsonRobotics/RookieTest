@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CalebTalonTest",
+            "request": "launch",
+            "mainClass": "CalebTalonTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FlashyTalons",
             "request": "launch",
             "mainClass": "FlashyTalons"

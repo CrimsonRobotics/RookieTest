@@ -27,8 +27,8 @@ public class MotorGoGoGo extends Subsystem {
   }
 
   public void moveMotors(){
-    //motor1.set(0.4);
-    //motor2.set(0.4);
+    motor1.set(0.4);
+    motor2.set(0.4);
   }
 
   public void stopMotors(){
